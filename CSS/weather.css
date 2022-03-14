@@ -1,0 +1,42 @@
+body{
+    background-image: url(../bg-image.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.input-fild{
+    background-color: transparent;
+    margin-right: 1px;
+}
+.input-fild:focus{
+    background-color: transparent;
+    color: white;
+}
+.input-fild::placeholder{
+    color: rgb(204, 204, 204);
+}
+
+
+#inputContainer{
+    margin-top: 10%;
+}
+#searchButton{
+    background-color: transparent;
+    color: white;
+    border-color: white;
+}
+#searchButton:hover{
+    background-color: crimson;
+}
+
+#errorDiv{
+    text-align: center;
+    color: rgb(180, 38, 66);
+    visibility: hidden;
+}
+
+#weatherContainer{
+    margin-top: 10%;
+    color: white;
+    text-align: center;
+}
