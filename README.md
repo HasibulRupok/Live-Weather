@@ -45,7 +45,8 @@ You can find a live demo of the Weather App [here](https://your-demo-link.com).
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/). You are free to download and use this application, but you must provide appropriate credit to the original authors.
+
 
 ## Acknowledgements
 
